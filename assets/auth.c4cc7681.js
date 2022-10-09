@@ -1,0 +1,1 @@
+const o="https://script.google.com/macros/s/AKfycbxj2rPpYFBXrmgRJqJXs4XoHgOD72et7T5fNlMquz7IudGsKHbkJHo3wqY3j8VaG_ykNw/exec?type=revision_plan",s="https://script.google.com/macros/s/AKfycbyRpQ655QHz9-9dlUokxhi_Sv5f5GD1CrcTNLFh640gllKcFV-fCpjNZOdI7yCKekZSEg/exec";export{s as a,o as r};
